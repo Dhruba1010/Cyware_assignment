@@ -1,0 +1,11 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+
+.home__container {
+    padding: 0 2rem;
+    border: 1px solid red;
+}
